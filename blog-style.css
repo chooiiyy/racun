@@ -1,3 +1,10 @@
 * {
     font-family: 'Montserrat', sans-serif;
 }
+
+#feat-card:hover{
+
+        -webkit-filter: blur(4px);
+        filter: blur(4px);
+    
+}
