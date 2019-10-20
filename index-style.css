@@ -1,0 +1,14 @@
+.fa-search{
+    background-color: white;
+    border-radius: 40px;
+}
+
+#slider-block{
+    height: 10px;
+    width: auto;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    transform: translateZ(0);
+}
